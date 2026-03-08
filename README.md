@@ -1,2 +1,19 @@
 # calculator-mvc-project
-Calculator project developed in python with tkinter using the MVC architecture for educational purposes.
+This project is a calculator built with Python and Tkinter using the Model-View-Controller (MVC) architecture.
+
+## Features
+- Addition
+- Subtraction
+- Multiplication
+- Division
+
+## Technologies
+- Python
+- Tkinter
+- MVC Design Pattern
+
+## Author
+Bigord Abnerson,
+Janvier Marc Duverson,
+Charles Wydlyn,
+Cledanor Montini.
